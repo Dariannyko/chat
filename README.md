@@ -1,6 +1,6 @@
-# Caht app
+# Chat app
 
-**Caht** -  instant messaging app. 
+**Chat** -  instant messaging app. 
 
 Implemented elements:
 - main message exchange page with the option to change the name and exit from the app;
